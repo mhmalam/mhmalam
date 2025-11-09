@@ -28,7 +28,7 @@ I'm a **Junior at Columbia University** focused on building **production-ready s
 ## 💼 What I'm Building
 
 **Systems & Operations Engineer @ Columbia Housing** 🏛️  
-*Leading development of Dorm Room Viewer* — a secure platform serving 8,000+ Columbia students
+*Leading development of Dorm Room Viewer* — a secure platform built to serve 8,000+ Columbia students
 - Built with **React**, **Next.js**, and **AWS S3** for authenticated content delivery
 - Designed internal tooling that cut manual operations by 80% across 1,000+ tasks
 - Architected scalable systems aligned with university security standards
