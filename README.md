@@ -55,25 +55,6 @@ const mohammed = {
   current_focus: "Building scalable cloud-native applications"
 };
 ```
-
----
-
-## 📚 Currently Learning
-
-- Advanced Kubernetes orchestration and cloud-native patterns
-- System design for distributed architectures
-- Database optimization and query performance tuning
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in collaborating on **open-source projects**, discussing **system design**, or exploring opportunities to build impactful software.
-
-- 💼 Open to **Summer 2026 SWE internships**
-- 🌱 Passionate about **student-focused tech** and **developer tools**
-- 📫 Best way to reach me: [ma4368@columbia.edu](mailto:ma4368@columbia.edu)
-
 ---
 
 <div align="center">
